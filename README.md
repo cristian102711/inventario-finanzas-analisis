@@ -43,4 +43,5 @@ Este proyecto simula el análisis de inventario y finanzas operativas de una bod
 
 ## 👨‍💻 Autor
 Cristian Carlos Velásquez Cornejo  
-[LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+[LinkedIn](https://) 
+[GitHub](https://github.com/cristian102711)
